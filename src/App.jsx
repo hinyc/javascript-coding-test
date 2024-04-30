@@ -1,12 +1,12 @@
 import './App.css';
-import ValidAnagram from './page/validAnagram';
+import Palindrome from './page/palindrome';
 
 function App() {
   return (
     <>
-      <div>ArrayDeduplication</div>
       {/* <ArrayDeduplication /> */}
-      <ValidAnagram />
+      {/* <ValidAnagram /> */}
+      <Palindrome />
     </>
   );
 }

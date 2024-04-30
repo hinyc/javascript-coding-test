@@ -14,7 +14,7 @@ export default function ValidAnagram() {
 
   return (
     <div>
-      ValidAnagram
+      <h1>ValidAnagram</h1>
       <div>
         stringA: <input type="text" value={stringA} onChange={(e) => setStringA(e.target.value)} />
       </div>
